@@ -1,0 +1,8 @@
+ML - MNIST K-NN classification
+In this project, we use the MNIST dataset provided by scikit-learn library.
+
+MNIST is a computer vision dataset that consists of handwritten digits and labels for each image (which tells which digit it is)
+
+k-NN classifier will be applied to the image dataset in order to recognize handwritten digits from the MNIST subset.
+
+The training-test ratio will vary and the training and testing accuracy will be plotted for each training-test ratio 
